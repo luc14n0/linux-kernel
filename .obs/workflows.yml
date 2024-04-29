@@ -1,0 +1,10 @@
+rebuild_stable:
+  steps:
+    - rebuild_package:
+      project: home:luc14n0:kernel
+      package: kernel-source-stable
+  filters:
+    event: push
+  branches:
+    only:
+      - openSUSE-stable
