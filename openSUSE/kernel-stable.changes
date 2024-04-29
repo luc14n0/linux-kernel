@@ -1,0 +1,5 @@
+-------------------------------------------------------------------
+Tue Apr 23 05:54:14 UTC 2024 - Luciano Santos <luc14n0@opensuse.org>
+
+- Stable Linux kernel 6.8.y series package, based on
+  openSUSE/SUSE's vanilla kernel flavor.
